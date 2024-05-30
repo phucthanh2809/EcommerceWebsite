@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn\\.NET\\ASP.NET\\ASP .NET Core 8 MVC Shop B\u00E1n h\u00E0ng\\ECommerceMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39C4A2E9-4D3A-41D1-9DB5-EA2C70D401BC}|ECommerceMVC\\ECommerceMVC.csproj|d:\\learn\\.net\\asp.net\\asp .net core 8 mvc shop b\u00E1n h\u00E0ng\\ecommercemvc\\ecommercemvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C4A2E9-4D3A-41D1-9DB5-EA2C70D401BC}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\Learn\\.NET\\ASP.NET\\ASP .NET Core 8 MVC Shop B\u00E1n h\u00E0ng\\ECommerceMVC\\ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\Learn\\.NET\\ASP.NET\\ASP .NET Core 8 MVC Shop B\u00E1n h\u00E0ng\\ECommerceMVC\\ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:34:55.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
